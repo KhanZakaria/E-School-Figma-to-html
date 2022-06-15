@@ -350,7 +350,7 @@ footer {
     font-size: 16px;
     font-weight: 400;
     line-height: 30px;
-
+    text-transform: capitalize;
 }
 
 .footerMenu ul li a:hover {
