@@ -119,6 +119,7 @@ nav ul {
     display: flex;
     flex-basis: 75%;
     justify-content: flex-end;
+    align-items: center;
 }
 
 nav ul li {}
